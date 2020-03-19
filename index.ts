@@ -25,4 +25,3 @@ function findFactorialIterative(number: number): number {
 
 // Linear Time Complexity O(n), we are looping n times.
 
-(findFactorialIterative(5);
